@@ -3,7 +3,7 @@
 
 <!-- Animated Greeting Section -->
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Krish+Pradeep;Full+Stack+Developer;Problem+Solver;Open+Source+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Krish+Pradeep;Let's+Learn;Understand+And+Grow" alt="Typing Animation" />
 </h1>
 
 <style>
@@ -80,7 +80,6 @@
 
 ---
 
-## 🛠️ Tech Stack
 
 <div class="animated-section">
 
